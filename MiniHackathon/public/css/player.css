@@ -1,0 +1,39 @@
+body{
+    background-color: #FBFEF9;
+    color: #333333;
+}
+
+.btn{
+    background-color: #BF1363;
+    border-color: #BF1363;
+}
+
+.btn:hover{
+    background-color: rgb(172, 7, 67);
+    border-color: rgb(172, 7, 67);
+}
+
+.header{
+    font: 3em sans-serif;
+}
+
+.button{
+    width: 200px;
+    padding:9px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.header-c{
+    padding-left: 0;
+    padding-bottom: 10px;
+    margin-left: -4px;
+    margin-bottom: 6em;
+    border-bottom: 2px solid #46474a;
+}
+
+.alert{
+    margin-top: 1em;
+}
